@@ -84,7 +84,7 @@ imprimirArrayOther = (array)=>{
     console.log(`\nEl valor de esa posicion es ${array[4]}`);
     
     for (let i = 0; i < array.length; i++) {
-        if(i == 4){
+        if(i == 5){
             continue
         }
         else{
